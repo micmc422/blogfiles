@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Gâteau au chocolat moelleux",
+  "author": { "@type": "Person", "name": "Michael Bardy" },
+  "datePublished": "2025-06-23",
+  "description": "Un gâteau au chocolat simple et moelleux.",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "8 parts",
+  "keywords": "gâteau, chocolat, dessert facile",
+  "recipeIngredient": [
+    "200g de chocolat noir", "150g de beurre", "150g de sucre", "4 œufs", "80g de farine", "1 sachet de levure"
+  ],
+  "recipeInstructions": [
+    "Préchauffer le four à 180°C.",
+    "Faire fondre le chocolat avec le beurre.",
+    "Mélanger les œufs et le sucre.",
+    "Ajouter le mélange chocolat-beurre.",
+    "Incorporer la farine et la levure.",
+    "Enfourner 30 min."
+  ],
+  "nutrition": { "@type": "NutritionInformation", "calories": "350 calories par portion" }
+}
+</script>
