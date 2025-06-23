@@ -1,0 +1,15 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Puis-je remplacer le beurre par de l’huile ?",
+    "acceptedAnswer": { "@type": "Answer", "text": "Oui, utilisez 150 ml d’huile neutre." }
+  }, {
+    "@type": "Question",
+    "name": "Ce gâteau est-il faisable sans gluten ?",
+    "acceptedAnswer": { "@type": "Answer", "text": "Oui, utilisez un mélange sans gluten adapté." }
+  }]
+}
+</script>
