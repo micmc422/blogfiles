@@ -1,0 +1,10 @@
+element {
+  /* taille de police fluide entre 1rem et 2rem, avec une valeur idéale de 5vw */
+  font-size: clamp(1rem, 5vw, 2rem);
+  
+  /* marge fluide entre 16px et 48px, avec un idéal basé sur 2% de la largeur viewport */
+  margin: clamp(16px, 2vw, 48px);
+  
+  /* largeur fluide d’un conteneur entre 300px et 800px */
+  max-width: clamp(300px, 50%, 800px);
+}
