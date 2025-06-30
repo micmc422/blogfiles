@@ -1,0 +1,10 @@
+// Séquentiel (await l'un après l'autre)
+[Tâche 1]--temps-->[Tâche 2]--temps-->[Tâche 3]--temps-->[ FIN ]
+Temps total = T1 + T2 + T3
+
+// Parallèle (Promise.all)
+|--[Tâche 1]--temps--|
+|--[Tâche 2]----temps----|
+|--[Tâche 3]---temps---|
+                       |--> [ FIN ]
+Temps total = Temps de la tâche la plus longue
