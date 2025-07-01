@@ -1,0 +1,7 @@
+Promesse
+  |
+  .then( résultat => ... ) // Succès
+  |
+  .then( résultat => ... ) // Succès
+  |
+  .catch( erreur => ... )  // Gestion de n'importe quelle erreur dans la chaîne
